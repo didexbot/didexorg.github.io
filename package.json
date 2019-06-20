@@ -1,7 +1,11 @@
 {
   "name": "didex.org",
   "description": "Didex is a web3 agency",
-  "keywords": ["software", "web3", "cryptocurrency"],
+  "keywords": [
+    "software",
+    "web3",
+    "cryptocurrency"
+  ],
   "author": "Eliot Krone",
   "version": "0.1.0",
   "private": true,
