@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import '../App.css';
 
+// TODO: like OnGrid
 class Footer extends Component {
     render() {
         return (

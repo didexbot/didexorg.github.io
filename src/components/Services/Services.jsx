@@ -38,6 +38,37 @@ class Services extends Component {
                         </div>
                     </div>
                 </div>
+                <hr className="divider my-4"/>
+                <div className="row">
+                    <div className="col-lg-3 col-md-6 text-center">
+                        <div className="mt-5">
+                            <i className="fas fa-4x fa-gem text-primary mb-4"></i>
+                            <h3 className="h4 mb-2">AirDrops</h3>
+                            <p className="text-muted mb-0"></p>
+                        </div>
+                    </div>
+                    <div className="col-lg-3 col-md-6 text-center">
+                        <div className="mt-5">
+                            <i className="fas fa-4x fa-laptop-code text-primary mb-4"></i>
+                            <h3 className="h4 mb-2">Prototypes</h3>
+                            <p className="text-muted mb-0"></p>
+                        </div>
+                    </div>
+                    <div className="col-lg-3 col-md-6 text-center">
+                        <div className="mt-5">
+                            <i className="fas fa-4x fa-globe text-primary mb-4"></i>
+                            <h3 className="h4 mb-2">Marketing</h3>
+                            <p className="text-muted mb-0">We make audit smart contratcs</p>
+                        </div>
+                    </div>
+                    <div className="col-lg-3 col-md-6 text-center">
+                        <div className="mt-5">
+                            <i className="fas fa-4x fa-heart text-primary mb-4"></i>
+                            <h3 className="h4 mb-2"></h3>
+                            <p className="text-muted mb-0"></p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
         )

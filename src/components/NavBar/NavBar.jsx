@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import '../App.css';
 
+// TODO: lang selector, theme selector, quick contacts: telegram, didex token status, profile
+
 class NavBar extends Component {
     render() {
         return (
