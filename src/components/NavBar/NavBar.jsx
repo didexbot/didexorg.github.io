@@ -14,8 +14,8 @@ class NavBar extends Component {
                         aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
-                    <div className="collapse navbar-collapse" id="navbarResponsive">
-                        {/* <ul className="navbar-nav ml-auto my-2 my-lg-0">
+                    {/* <div className="collapse navbar-collapse" id="navbarResponsive">
+                        <ul className="navbar-nav ml-auto my-2 my-lg-0">
                             <li className="nav-item">
                                 <a className="nav-link js-scroll-trigger" href="#about">About</a>
                             </li>
@@ -25,14 +25,14 @@ class NavBar extends Component {
                             <li className="nav-item">
                                 <a className="nav-link js-scroll-trigger" href="#token">Token</a>
                             </li>
-                            {/*<li className="nav-item">
+                            <li className="nav-item">
                                 <a className="nav-link js-scroll-trigger" href="#projects">Projects</a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link js-scroll-trigger" href="#contact">Contact</a>
                             </li>
-                        </ul> */}
-                    </div>
+                        </ul>
+                    </div> */}
                 </div>
             </nav>
         )

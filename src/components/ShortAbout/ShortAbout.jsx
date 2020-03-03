@@ -67,7 +67,7 @@ class ShortAbout extends Component {
                             <p className="text-white-50 mb-4">
                                 {/* Description about company and technologies. Like: Bitcoin, Substrate, etc */}
 
-                                <div className="row">
+                                {/* <div className="row">
 
                                     {
                                         logoNames.map((logo) => this.renderSvgIcon(logo.title, logo.name))
@@ -81,7 +81,7 @@ class ShortAbout extends Component {
                                         logoNames.map((logo) => this.renderPngIcon(logo.title, logo.name))
                                     }
 
-                                </div>
+                                </div> */}
                             </p>
                             <a className="btn btn-light btn-xl js-scroll-trigger" href="#services">Get Started!</a>
                         </div>

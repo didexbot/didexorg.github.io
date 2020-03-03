@@ -10,10 +10,10 @@ class Contacts extends Component {
                 <div className="container">
                     <div className="row justify-content-center">
                         <div className="col-lg-8 text-center">
-                            <h2 className="mt-0">Let's Get In Touch!</h2>
+                            <h2 className="mt-0">Contacts</h2>
                             <hr className="divider my-4" />
-                            <p className="text-muted mb-5">Ready to start your next project with us? Give us a call
-                                    or send us an email and we will get back to you as soon as possible!</p>
+                            {/* <p className="text-muted mb-5">Ready to start your next project with us? Give us a call
+                                    or send us an email and we will get back to you as soon as possible!</p> */}
                         </div>
                     </div>
                     <div className="row">
@@ -24,13 +24,13 @@ class Contacts extends Component {
                                 </a>
                             </div>
                         </div>
-                        <div className="ml-auto text-center">
+                        {/* <div className="ml-auto text-center">
                             <div>
                                 <a href="https://twitter.com/didexorg">
                                     <i className="fab fa-twitter fa-3x text-muted"></i>
                                 </a>
                             </div>
-                        </div>
+                        </div> */}
                         <div className="ml-auto text-center">
                             <div><a href="https://github.com/didexorg">
                                 <i className="fab fa-github fa-3x mb-3 text-muted"></i>
@@ -41,18 +41,18 @@ class Contacts extends Component {
                                 <i className="fab fa-medium fa-3x mb-3 text-muted"></i>
                             </a></div>
                         </div>
-                        <div className="ml-auto text-center">
+                        {/* <div className="ml-auto text-center">
                             <div><a href="#">
                                 <i className="fab fa-reddit fa-3x mb-3 text-muted"></i>
                             </a></div>
-                        </div>
-                        <div className="ml-auto text-center">
+                        </div> */}
+                        {/* <div className="ml-auto text-center">
                             <div><a href="#">
                                 <i className="fab fa-linkedin fa-3x mb-3 text-muted"></i>
                             </a></div>
-                        </div>
+                        </div> */}
                         <div className="ml-auto text-center">
-                            <div><a href="https://t.me/DidexBot">
+                            <div><a href="https://t.me/DidexRu">
                                 <i className="fab fa-telegram fa-3x mb-3 text-muted"></i>
                             </a></div>
                         </div>

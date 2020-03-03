@@ -14,14 +14,14 @@ class MainPage extends Component {
         return (
             <div className="App">
 
-                {/* <NavBar /> */}
+                <NavBar />
                 <Header />
                 {/* <ShortAbout />
-                <Services /> */}
-                {/* <Projects /> */}
-                {/* <TokenInfo />
-                <Contacts />
-                <Footer /> */}
+                <Services /> 
+                <Projects />
+                <TokenInfo />
+                <Contacts /> */}
+                <Footer />
 
             </div>
         )
